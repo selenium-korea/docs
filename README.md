@@ -1,3 +1,5 @@
+* 이 곳은 새로 작성되는 셀레늄 문서의 한글화 작업을 위한 저장소입니다.
+
 # [Selenium documentation rewrite](https://seleniumhq.github.io/docs/) [![Build status](https://travis-ci.org/SeleniumHQ/docs.svg)](https://travis-ci.org/SeleniumHQ/docs)
 
 We’re rewriting the Selenium documentation from scratch!
