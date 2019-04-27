@@ -2,6 +2,10 @@
 
 # [Selenium documentation rewrite](https://seleniumhq.github.io/docs/) [![Build status](https://travis-ci.org/SeleniumHQ/docs.svg)](https://travis-ci.org/SeleniumHQ/docs)
 
+Selenium 문서를 처음부터 다시 재작성 중입니다. 
+현재 상황은 [초안](//seleniumhq.github.io/docs)에서 확인 가능합니다.
+패치를 작성해서 문서 작성을 도울 수 있습니다. 
+
 We’re rewriting the Selenium documentation from scratch!
 You can see the current progress of [our draft](//seleniumhq.github.io/docs),
 and help us out by sending a patch.
