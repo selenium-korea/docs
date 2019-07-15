@@ -1,6 +1,6 @@
 * 이 곳은 새로 작성되는 셀레늄 문서의 한글화 작업을 위한 저장소입니다.
 
-# [Selenium documentation rewrite](https://seleniumhq.github.io/docs/) 
+# [Selenium documentation rewrite](https://seleniumhq.github.io/docs/)  
 
 셀레늄 문서를 처음부터 다시 재작성 중입니다. 
 현재 상황은 [초안](//seleniumhq.github.io/docs)에서 확인 가능합니다.
